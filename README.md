@@ -11,7 +11,6 @@ _An end-to-end analysis of ride bookings using Excel, SQL, and Power BI, coverin
 - <a href="#project-structure">Project Structure</a>
 - <a href="#Key-Highlights">Key Highlights & Findings</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
@@ -75,20 +74,6 @@ OLA_Data_Analysis/
    - Cancelled rides by Customers = 7%
    - Cancelled rides by Drivers = 25%
 6. **Successful rides Booking value**: 12.5 Million (INR)
-
----
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
-
-- Power BI Dashboard shows:
-  - Booking status breakdown
-  - Top 5 Vehicle types by ride distance
-  - Top 5 Customers by booking value
-  - Revenue by Pyment methods
-  - Cancelled rides by Drivers & Customers
-  - Ride distance distributin per day
-  - Driver & Customer Ratings
-
-![OLA](dashboard)
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
