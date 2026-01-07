@@ -81,4 +81,4 @@ OLA_Data_Analysis/
 **Jay More**  
 Aspiring Data Analyst  
 📧 Email: jaimore10@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/jay-more-42493833b/)
+🔗 [LinkedIn](www.linkedin.com/in/jay-more-42493833b)
