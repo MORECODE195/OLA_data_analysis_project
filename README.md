@@ -88,7 +88,7 @@ OLA_Data_Analysis/
   - Ride distance distributin per day
   - Driver & Customer Ratings
 
-![OLA](dashboard.png)
+![OLA](dashboard)
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
